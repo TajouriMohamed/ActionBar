@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ActionBar</string>
+    <string name="home">home</string>
+    <string name="setting">setting</string>
+    <string name="item_a">Item A</string>
+    <string name="item_b">Item B</string>
+    <string name="search">Search</string>
+    <string name="hello_world">Hello world !</string>
+</resources>

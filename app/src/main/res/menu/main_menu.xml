@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/action_home"
+        app:showAsAction="ifRoom"
+        android:title="@string/home"
+        android:icon="@drawable/ic_home"/>
+
+    <item android:id="@+id/action_search"
+        app:showAsAction="ifRoom"
+        android:title="@string/search"
+        android:icon="@drawable/ic_search"
+        app:actionViewClass="android.widget.SearchView"/>
+
+    <item android:id="@+id/action_settings"
+        android:title="@string/setting"/>
+
+    <item android:id="@+id/action_ItemA"
+        android:title="@string/item_a"/>
+
+    <item android:id="@+id/action_ItemB"
+        android:title="@string/item_b"/>
+
+</menu>
